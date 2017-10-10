@@ -44,4 +44,4 @@ Modal Project Slideshow Lightbox</p>
 
 <hr>
 
-<p>Free to use license 😊  with the hopes this inspires. Designed + Coded in 16.</p>
+<p>Free to use license 😊  with the hopes this inspires. Designed + Coded in 15.</p>

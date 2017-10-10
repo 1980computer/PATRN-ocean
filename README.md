@@ -12,7 +12,7 @@
 
 <hr>
 
-<p>The framework has been developed in Jade (Pug) which renders the files as html markup.</p>
+<p>The framework has been developed in <a href="https://pugjs.org/api/getting-started.html" target="_blank">Jade (Pug)</a> which renders the files as html markup.</p>
 
 <hr>
 

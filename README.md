@@ -12,7 +12,7 @@
 
 <hr>
 
-<p><b>Custom Framework</b><br>The framework has been developed in <a href="https://pugjs.org/api/getting-started.html" target="_blank">Jade (Pug)</a> which renders the files as html markup.</p>
+<p><b>Framework - Custom Base</b><br>The framework has been developed in <a href="https://pugjs.org/api/getting-started.html" target="_blank">Jade (Pug)</a> which renders the files as html markup.</p>
 
 <hr>
 

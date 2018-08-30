@@ -1,4 +1,4 @@
-# <a href="http://patrn.design/" target="_blank"><img src="http://patrn.design/patrn-ocean/patrn-custom/html/assets/images/patrn-logo.svg" height="40" alt=""></a>
+# <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-ocean/patrn-custom/html/assets/images/patrn-logo.svg" height="40" alt=""></a>
 
 <p><b>Patrn (Ocean) is a <a href="https://en.wikipedia.org/wiki/CSS_frameworks" target="_blank">framework</a> focused sole on layout capabilities.</b></p>
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-<b>PATRN ~ Visit URL for visual references http://patrn.design</b>
+<b>PATRN ~ Visit URL for visual references http://davidbanthony.me/project/patrn/</b>
 
 <hr>
 
@@ -16,13 +16,13 @@
 
 <hr>
 
-<a href="http://patrn.design" target="_blank"><img src="http://patrn.design/patrn-ocean/patrn-custom/html/assets/images/patrn-angle-1.1.jpg" alt=""></a>
+<a href="http://davidbanthony.me/project/patrn/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-ocean/patrn-custom/html/assets/images/patrn-angle-1.1.jpg" alt=""></a>
 
 <hr>
 
 <p>This repo contains templates that have been built with a component methodology in mind. Included is a template page that outlines each component and how the blocks can be used to build out any style of layout.</p>
 
-<p><a href="http://patrn.design" target="_blank"><img src="http://patrn.design/patrn-ocean/patrn-custom/html/assets/images/patrn-angle-1.2.jpg" alt=""></a></p>
+<p><a href="http://davidbanthony.me/project/patrn/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-ocean/patrn-custom/html/assets/images/patrn-angle-1.2.jpg" alt=""></a></p>
 
 <p><b>Component Combinations</b><br>
 3 Template Pages<br>

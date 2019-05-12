@@ -1,6 +1,6 @@
-# <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-ocean/patrn-custom/html/assets/images/patrn-logo.svg" height="40" alt=""></a>
+# <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/assets/images/patrn-logo.svg" height="40" alt=""></a>
 
-<p><b>Patrn (Ocean) is a utility-first CSS framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation. http://davidbanthony.me/project/patrn/</b></p>
+<p>Patrn (Ocean) is a utility-first CSS framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation. http://davidbanthony.me/project/patrn/</p>
 
 <hr>
 

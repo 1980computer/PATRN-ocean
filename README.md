@@ -1,18 +1,6 @@
 # <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-ocean/patrn-custom/html/assets/images/patrn-logo.svg" height="40" alt=""></a>
 
-<p><b>Patrn (Ocean) is a <a href="https://en.wikipedia.org/wiki/CSS_frameworks" target="_blank">framework</a> focused sole on layout capabilities.</b></p>
-
-<hr>
-
-<p>From a design perspective current frameworks are bloated and lack an area of focus. After researching most modern frameworks on the market I wanted to challenge myself to create something simplistic, lightweight and with a simple focus - <b>Layout.</b></p>
-
-<hr>
-
-<b>PATRN ~ Visit URL for visual references http://davidbanthony.me/project/patrn/</b>
-
-<hr>
-
-<p><b>Framework - Custom Base</b><br>The framework has been developed in <a href="https://pugjs.org/api/getting-started.html" target="_blank">Jade (Pug)</a> which renders the files as html markup.</p>
+<p><b>Patrn (Ocean) is a utility-first CSS framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation. http://davidbanthony.me/project/patrn/</b></p>
 
 <hr>
 

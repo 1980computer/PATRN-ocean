@@ -1,10 +1,10 @@
-# <a href="http://patrn.design/" target="_blank"><img src="https://patrn.design/assets/images/logo.svg" height="30" alt=""></a>
+# <a href="http://patrn.design/" target="_blank"><img src="https://patrn.netlify.app/assets/images/logo.svg" height="30" alt=""></a>
 
 ### Patrn is an ongoing side project evolving as time permits.
 
 Patrn is a framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation.
 
-[GitHub Repo](https://github.com/davidbanthony/patrn.design) + [Website Preview](https://patrn.design)
+[GitHub Repo](https://github.com/davidbanthony/patrn.design) + [Website Preview]([https://patrn.design](https://patrn.netlify.app/))
 
 ------------
 
